@@ -1,0 +1,28 @@
+.solar-heading{
+    color: green;
+    font-size: 30px;
+    font-family: serif;
+}
+
+.solar-para{
+    font-family: verdana;
+    font-size: 15px;
+    text-align: justify;
+}
+.solarwork-heading
+{
+    color: green;
+    font-size: 28px;
+    font-family: serif;
+    text-align: center;
+}
+h5{
+    color: green;
+}
+.para-how{
+    text-align: justify;
+   
+}
+.solar-diagram{
+    padding-bottom: 20px;
+}
